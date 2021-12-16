@@ -1,5 +1,4 @@
 public class Cat extends Animal {
-
     private static int catCounts = 0;
 
     public Cat() {
@@ -10,7 +9,6 @@ public class Cat extends Animal {
     public static int getCatCounts() {
         return catCounts;
     }
-
     @Override
     public void run(int run) {
         super.run(run);

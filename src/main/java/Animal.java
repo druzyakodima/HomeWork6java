@@ -1,6 +1,5 @@
 public class Animal {
 
-
     private static String animal;
     private int swim;
     private int run;
