@@ -86,7 +86,8 @@ public class Animal {
     private void printInfoSwim(int swim) {
         System.out.printf("%s проплыл %d м \n", getName(), swim);
     }
-    public static void printInfoCountAnimals(){
-        System.out.printf("Всего животных %s, всего котов %s, всего собак %s", animalsCount, Cat.getCatCounts(),Dog.getDogCounts() );
+
+    public static void printInfoCountAnimals() {
+        System.out.printf("Всего животных %s, всего котов %s, всего собак %s", animalsCount, Cat.getCatCounts(), Dog.getDogCounts());
     }
 }

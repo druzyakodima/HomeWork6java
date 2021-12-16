@@ -9,7 +9,7 @@ public class Main {
         catBarsik.getSwim();
         dogBobik.swim(10);
 
-       Animal.printInfoCountAnimals();
+        Animal.printInfoCountAnimals();
 
 
     }
