@@ -10,7 +10,7 @@ public class Main {
         dogBobik.swim(10);
 
        Animal.printInfoCountAnimals();
-/*        System.out.println("Всего животных " + Animal.getAnimalsCount() + " котов " + catBarsik.getCatCounts() + " собак " + dogBobik.getDogCounts());*/
+
 
     }
 }
